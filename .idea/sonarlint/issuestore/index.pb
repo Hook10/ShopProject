@@ -7,5 +7,3 @@ Q
 !ShopWebParent/ShopBackEnd/HELP.md,5\f\5f0372a4db406567d7dc3ba19c528845aa5294ff
 R
 "ShopWebParent/ShopFrontEnd/HELP.md,f\4\f49504eb67a7712ab6d19a9958e167af977b6527
-}
-MShopWebParent/ShopBackEnd/src/main/java/com/admin/ShopBackEndApplication.java,8\5\8562296e322db2d1db570e581ed760cd81b3eb95
