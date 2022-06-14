@@ -7,3 +7,9 @@ Q
 !ShopWebParent/ShopBackEnd/HELP.md,5\f\5f0372a4db406567d7dc3ba19c528845aa5294ff
 R
 "ShopWebParent/ShopFrontEnd/HELP.md,f\4\f49504eb67a7712ab6d19a9958e167af977b6527
+R
+"ShopWebParent/ShopFrontEnd/pom.xml,8\7\877691c0b526060718e085276ea00ef60bb169f8
+u
+EShopWebParent/ShopFrontEnd/src/main/java/com/site/MainController.java,0\a\0a3b41f029fbb62002e284646b842b2176fd7c6e
+~
+NShopWebParent/ShopFrontEnd/src/main/java/com/site/ShopFrontEndApplication.java,2\e\2ed8f2fde0a5a2dfc576107b0e11afd54dddee11
