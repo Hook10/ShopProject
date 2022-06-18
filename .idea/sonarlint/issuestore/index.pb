@@ -13,3 +13,13 @@ u
 EShopWebParent/ShopFrontEnd/src/main/java/com/site/MainController.java,0\a\0a3b41f029fbb62002e284646b842b2176fd7c6e
 ~
 NShopWebParent/ShopFrontEnd/src/main/java/com/site/ShopFrontEndApplication.java,2\e\2ed8f2fde0a5a2dfc576107b0e11afd54dddee11
+
+OShopWebParent/ShopBackEnd/src/main/java/com/shop/admin/user/RoleRepository.java,5\4\540272629d7da0212673d0e98bc516b481d9d42b
+z
+JShopWebParent/ShopBackEnd/src/main/java/com/shop/admin/MainController.java,9\f\9f600d459ea98a892a1342c982d501f53436c5ce
+i
+9ShopCommon/src/main/java/com/shop/common/entity/User.java,9\c\9cf6a45fefc152a78fa36e09fdf9607441d1d12f
+
+OShopWebParent/ShopBackEnd/src/main/java/com/shop/admin/user/UserRepository.java,3\a\3a022ec4141b1a72981d0f8b9333a9c231f14954
+Q
+!ShopWebParent/ShopBackEnd/pom.xml,7\a\7a4e3f8961890e462b9157d29503a738fc490357
