@@ -1,10 +1,14 @@
 package com.shop.admin.user;
 
+import com.shop.common.entity.Role;
 import com.shop.common.entity.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.ModelAttribute;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 
 import java.util.List;
 
@@ -20,5 +24,23 @@ public class UserController {
         model.addAttribute("listUsers", listUsers);
 
         return "users";
+    }
+
+    @GetMapping("/users/new")
+    public String newUser(@ModelAttribute("user") User user, Model model) {
+        List<Role> listRoles = service.listRoles();
+        user.setEnabled(true);
+        model.addAttribute("listRoles", listRoles);
+        return "user_form";
+    }
+
+    @PostMapping("/users/save")
+    public String saveUser(@ModelAttribute("user") User user,
+                           RedirectAttributes redirectAttributes) {
+        System.out.println(user);
+        service.save(user);
+        redirectAttributes.addFlashAttribute("message",
+                "The user has been saved successfully.");
+        return "redirect:/users";
     }
 }
