@@ -21,3 +21,11 @@ i
 9ShopCommon/src/main/java/com/shop/common/entity/User.java,9\c\9cf6a45fefc152a78fa36e09fdf9607441d1d12f
 Q
 !ShopWebParent/ShopBackEnd/pom.xml,7\a\7a4e3f8961890e462b9157d29503a738fc490357
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+B
+ShopCommon/pom.xml,3\f\3ffb4328a8b32daa6a4d77efec4b8ba9fe59a1dd
+i
+9ShopCommon/src/main/java/com/shop/common/entity/Role.java,6\a\6a0ac2378af8bbffef64df770bf0306c27a01ddc
+‚
+RShopWebParent/ShopBackEnd/src/main/java/com/shop/admin/ShopBackEndApplication.java,c\e\ce5921158533bea028e4c9438c8c16d9d7a98aac
