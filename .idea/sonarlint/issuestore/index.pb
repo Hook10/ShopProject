@@ -25,7 +25,15 @@ B
 RShopWebParent/ShopBackEnd/src/main/java/com/shop/admin/ShopBackEndApplication.java,c\e\ce5921158533bea028e4c9438c8c16d9d7a98aac
 „
 TShopWebParent/ShopBackEnd/src/test/java/com/shop/admin/user/RoleRepositoryTests.java,a\b\aba36c465f0995960ed087bdd72464f01e494c23
-„
-TShopWebParent/ShopBackEnd/src/test/java/com/shop/admin/user/UserRepositoryTests.java,9\3\93e8e520fb35f240418e601a534a8a89a217d48c
 E
 ShopWebParent/pom.xml,c\2\c2c6872c26d1975fc7e036b11faa265809bb2905
+
+OShopWebParent/ShopBackEnd/src/main/java/com/shop/admin/user/RoleRepository.java,5\4\540272629d7da0212673d0e98bc516b481d9d42b
+†
+VShopWebParent/ShopBackEnd/src/main/java/com/shop/admin/security/WebSecurityConfig.java,4\2\42dc13caea4cd2f636990c1fbdf29a24c9fcf436
+„
+TShopWebParent/ShopBackEnd/src/test/java/com/shop/admin/user/PasswordEncoderTest.java,f\a\fa6d015a3f3c5db73428caac919c5f381f5d39f5
+i
+9ShopCommon/src/main/java/com/shop/common/entity/User.java,9\c\9cf6a45fefc152a78fa36e09fdf9607441d1d12f
+i
+9ShopCommon/src/main/java/com/shop/common/entity/Role.java,6\a\6a0ac2378af8bbffef64df770bf0306c27a01ddc
